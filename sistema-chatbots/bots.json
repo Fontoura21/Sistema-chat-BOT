@@ -1,0 +1,41 @@
+{
+    "bot1" : 
+        {
+            "name" : "Wanda",
+            "lista_comandos" : [
+                [1, "Bom dia!", "Bom dia!"],
+                [2, "como você está?", "Estou bem!"],
+                [3, "Você é muito direta", "Sim"],
+                [4, "Adeus", "..."]
+            ],
+            "apresentacao" : "Eu sou Wanda",
+            "boas_vindas" : "Boas vinda!",
+            "despedida" : "..."
+        },
+    "bot2" : 
+        {
+            "name" : "Estudante",
+            "lista_comandos" : [
+                [1, "Bom dia!", "Bom dia!"],
+                [2, "como você está?", "Hoje tem apresentação da Lúcia Helena"],
+                [3, "Você é muito direta", "Sim"],
+                [4, "Adeus", "..."]
+            ],
+            "apresentacao" : "Eu sou Estudante",
+            "boas_vindas" : "Boas vinda!",
+            "despedida" : "..."
+        },
+    "bot3" : 
+        {
+            "name" : "Nome",
+            "lista_comandos" : [
+                [1, "Bom dia!", "Bom dia!"],
+                [2, "como você está?", "Estou bem!"],
+                [3, "Você é muito direta", "Sim"],
+                [4, "Adeus", "..."]
+            ],
+            "apresentacao" : "Eu sou Nome",
+            "boas_vindas" : "Boas vinda!",
+            "despedida" : "..."
+        }
+}
